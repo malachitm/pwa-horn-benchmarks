@@ -1,5 +1,5 @@
 problem, tool, version, flags, real time(m:ss), user time(s), system time(s), max memory(KB), timeout, error, date
 p1.smt2, Golem, 0.6.5, "--engine dar", 0:20.58, 21.17, 0.14, 47672, N/A, N/A,2025-04-07
 p1.smt2, Z3, 4.14.2, none, 0:56.62, 56.79, 0.62, 536112, N/A, N/A, 2025-04-07
-p1.smt2, Eldarica, 2.1, none, ERR, ERR, ERR, ERR, N/A, (error "stack overflow"), 2025-04-07
+p1.smt2, Eldarica, 2.1, none, ERR, ERR, ERR, ERR, N/A, "(error "stack overflow")", 2025-04-07
 p2.smt2, Golem, 0.6.5, "--engine dar", 1:18.41, 78.58, 0.23, 174868, N/A, N/A, 2025-04-07

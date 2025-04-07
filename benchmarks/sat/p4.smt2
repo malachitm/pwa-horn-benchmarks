@@ -37,9 +37,9 @@
 			(= i0 (+ i 1))
 			(= currentvalue0 (+ currentvalue (* 0.09 (- 100 currentvalue))))
 			(not (=> 
-				(>= i0 500) 
-					(<= (abs (- 100 currentvalue0)) 0.1)
-				))
+				(>= i0 500) (and
+					(<= (- 0 0.1) (- 100 currentvalue0)) (<= (- 100 currentvalue0) 0.1)
+				)))
 		)
 		false)
 ))

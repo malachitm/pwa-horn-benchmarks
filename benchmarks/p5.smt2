@@ -1,7 +1,6 @@
 (set-option :pp.decimal true)
 (set-logic HORN)
 (declare-fun Inv (Real Real Real Real Real) Bool)
-; Kp, Ki, step_time, max_output, min_output, target_program are constant throughout program
 
 (assert (forall 
 	((currentvalue Real)

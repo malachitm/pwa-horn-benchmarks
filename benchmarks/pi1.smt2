@@ -1,7 +1,6 @@
 (set-option :pp.decimal true)
 (set-logic HORN)
 (declare-fun Inv (Real Real Real Real Real Real) Bool)
-; Kp, Ki, step_time, max_output, min_output, target_program are constant throughout program
 
 (assert (forall 
 	((currentvalue Real)
@@ -11,7 +10,7 @@
 
 	(=>
 		(and 
-			(= currentvalue 0.0)
+			(= currentvalue 95.0)
 			(= controlsignal 0.0)
 			(= integral 0.0)
 			(= i 0.0)
@@ -31,11 +30,11 @@
 	(=> 
 		(and
 			( Inv currentvalue error integral controloutput controlsignal i)
-			(= error0 (- 10 currentvalue))
+			(= error0 (- 100 currentvalue))
 			(= integral0 (+ integral (* error0 0.1)))
-			(= controloutput0 (+ (* 2.0 error0) (* integral0 0.01)))
+			(= controloutput0 (+ (* 2.0 error0) (* integral0 0.1)))
 			(= controlsignal0 controloutput0)
-			(= currentvalue0 (+ currentvalue controlsignal0))
+			(= currentvalue0 (+ currentvalue (* controlsignal0 0.1)))
 			(= i0 (+ i 1.0))
 		)
 		(Inv currentvalue0 error0 integral0 controloutput0 controlsignal0 i0))
@@ -53,11 +52,11 @@
 	(=> 
 		(and
 			( Inv currentvalue error integral controloutput controlsignal i)
-			(= error0 (- 10 currentvalue))
+			(= error0 (- 100 currentvalue))
 			(= integral0 (+ integral (* error0 0.1)))
-			(= controloutput0 (+ (* 2.0 error0) (* integral0 0.01)))
+			(= controloutput0 (+ (* 2.0 error0) (* integral0 0.1)))
 			(= controlsignal0 controloutput0)
-			(= currentvalue0 (+ currentvalue controlsignal0))
+			(= currentvalue0 (+ currentvalue (* controlsignal0 0.1)))
 			(= i0 (+ i 1.0))
 			(not (=> 
 				(>= i0 500) 

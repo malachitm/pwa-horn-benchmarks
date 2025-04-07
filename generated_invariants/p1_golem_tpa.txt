@@ -1,0 +1,8 @@
+; System is safe up to <=2^1 steps
+; System is safe up to <=2^2 steps
+; System is safe up to <=2^3 steps
+; System is safe up to <=2^4 steps
+; System is safe up to <=2^5 steps
+; System is safe up to <=2^6 steps
+; System is safe up to <=2^7 steps
+; System is safe up to <=2^8 steps

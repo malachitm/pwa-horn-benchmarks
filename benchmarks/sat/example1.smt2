@@ -1,0 +1,26 @@
+(set-option :pp.decimal true)
+(set-logic HORN)
+(declare-fun inv (Real Real Real Real) Bool)
+
+(assert (forall ((m Real) (i Real) (e Real) (c Real)) (=> (and (= m 0.0) (= i 0.0)) (inv m i e c))))
+
+(assert (forall ((m Real) (i Real) (e Real) (c Real) (m0 Real) (i0 Real) (e0 Real) (c0 Real)) 
+      (=>   (and  ( inv m i e c)
+                  (= e0 (- 100.0 m))
+                  (= c0 (* 0.1 e0))
+                  (= m0 (+ m c0))
+                  (= i0 (+ i 0.001)))
+            (inv m0 i0 e0 c0))))
+
+(assert (forall ((m Real) (i Real) (e Real) (c Real) (m0 Real) (i0 Real) (e0 Real) (c0 Real)) 
+      (=>   (and  (inv m i e c) 
+                  (= e0 (- 100.0 m))
+                  (= c0 (* 0.1 e0))
+                  (= m0 (+ m c0))
+                  (= i0 (+ i 0.001))
+                  (not (=> (> i0 0.2) 
+                        (and (< 99.0 m0) (< m0 101.0)))))
+            false)))
+
+(check-sat)
+(get-model)

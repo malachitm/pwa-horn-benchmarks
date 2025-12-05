@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+
+benchmark_generator/*.smt2

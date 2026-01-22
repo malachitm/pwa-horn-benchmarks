@@ -61,7 +61,7 @@
 			(not (=> 
 				(>= i0 500) 
 				(and
-					(<= (- 0 0.2) (- 10 currentvalue0)) (<= (- 10 currentvalue0) 0.2)
+					(<= (- 0 0.2) (- 100 currentvalue0)) (<= (- 100 currentvalue0) 0.2)
 				)))
 		)
 		false)

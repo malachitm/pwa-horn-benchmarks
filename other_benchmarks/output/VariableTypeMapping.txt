@@ -1,0 +1,11 @@
+main::__CPAchecker_TMP_0	0
+main::xp1	0
+main::yd	0
+main::xp2	0
+main::i	0
+main::xc2	0
+main::oxp1	0
+main::oxc1	0
+main::xc1	0
+main::oxc2	0
+main::oxp2	0

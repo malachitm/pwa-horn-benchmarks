@@ -1,0 +1,87 @@
+2026-02-09 00:27:46:817	INFO	ResourceLimitChecker.fromConfiguration	Using the following resource limits: CPU-time limit of 900s
+
+2026-02-09 00:27:46:876	INFO	CPAchecker.run	CPAchecker 4.2.2 / default (OpenJDK 64-Bit Server VM 21.0.10) started
+
+2026-02-09 00:27:46:896	INFO	CPAchecker.parse	Parsing CFA from file(s) "./other_benchmarks/SoSY2025/eq2.c"
+
+2026-02-09 00:27:48:300	INFO	CoreComponentsFactory.createAlgorithm	Using heuristics to select analysis
+
+2026-02-09 00:27:48:315	WARNING	CPAchecker.printConfigurationWarnings	The following configuration options were specified but are not used:
+ cpa.callstack.unsupportedFunctions 
+
+
+2026-02-09 00:27:48:315	INFO	CPAchecker.runAlgorithm	Starting analysis ...
+
+2026-02-09 00:27:48:320	INFO	SelectionAlgorithm.chooseConfig	Performing heuristic ...
+
+2026-02-09 00:27:48:334	INFO	Analysis /opt/cpachecker/config/components/singleLoopConfig.properties:ResourceLimitChecker.fromConfiguration	Using the following resource limits: CPU-time limit of 900s
+
+2026-02-09 00:27:48:337	INFO	Analysis /opt/cpachecker/config/components/singleLoopConfig.properties:CoreComponentsFactory.createAlgorithm	Using Restarting Algorithm
+
+2026-02-09 00:27:48:347	INFO	Analysis /opt/cpachecker/config/components/singleLoopConfig.properties:RestartAlgorithm.run	Loading analysis 1 from file /opt/cpachecker/config/components/parallel-singleLoop.properties ...
+
+2026-02-09 00:27:48:352	INFO	Analysis /opt/cpachecker/config/components/singleLoopConfig.properties:Analysis /opt/cpachecker/config/components/parallel-singleLoop.properties:ResourceLimitChecker.fromConfiguration	Using the following resource limits: CPU-time limit of 900s
+
+2026-02-09 00:27:48:369	INFO	Analysis /opt/cpachecker/config/components/singleLoopConfig.properties:Analysis /opt/cpachecker/config/components/parallel-singleLoop.properties:Parallel analysis /opt/cpachecker/config/components/parallel-symbolicExecution.properties:ResourceLimitChecker.fromConfiguration	Using the following resource limits: CPU-time limit of 900s, Thread CPU-time limit of 140s
+
+2026-02-09 00:27:48:643	INFO	Analysis /opt/cpachecker/config/components/singleLoopConfig.properties:Analysis /opt/cpachecker/config/components/parallel-singleLoop.properties:Parallel analysis /opt/cpachecker/config/components/parallel-valueAnalysis-Cegar.properties:ResourceLimitChecker.fromConfiguration	Using the following resource limits: CPU-time limit of 900s, Thread CPU-time limit of 60s
+
+2026-02-09 00:27:48:704	INFO	Analysis /opt/cpachecker/config/components/singleLoopConfig.properties:Analysis /opt/cpachecker/config/components/parallel-singleLoop.properties:Parallel analysis /opt/cpachecker/config/components/parallel-predicateAnalysis.properties:ResourceLimitChecker.fromConfiguration	Using the following resource limits: CPU-time limit of 900s, Thread CPU-time limit of 200s
+
+2026-02-09 00:27:48:775	INFO	Analysis /opt/cpachecker/config/components/singleLoopConfig.properties:Analysis /opt/cpachecker/config/components/parallel-singleLoop.properties:Parallel analysis /opt/cpachecker/config/components/parallel-predicateAnalysis.properties:PredicateCPA:PredicateCPA.<init>	Using predicate analysis with MathSAT5 version 5.6.11 (1a1154baf0ab) (Aug  9 2024 08:45:22, gmp 6.2.0, gcc 7.5.0, 64-bit, reentrant) and JFactory 1.21.
+
+2026-02-09 00:27:48:836	INFO	Analysis /opt/cpachecker/config/components/singleLoopConfig.properties:Analysis /opt/cpachecker/config/components/parallel-singleLoop.properties:Parallel analysis /opt/cpachecker/config/components/parallel-predicateAnalysis.properties:PredicateCPA:PredicateCPARefiner.<init>	Using refinement for predicate analysis with PredicateAbstractionRefinementStrategy strategy.
+
+2026-02-09 00:27:48:846	INFO	Analysis /opt/cpachecker/config/components/singleLoopConfig.properties:Analysis /opt/cpachecker/config/components/parallel-singleLoop.properties:Parallel analysis /opt/cpachecker/config/components/parallel-dataFlow.properties:ResourceLimitChecker.fromConfiguration	Using the following resource limits: CPU-time limit of 900s, Thread CPU-time limit of 60s
+
+2026-02-09 00:27:48:905	INFO	Analysis /opt/cpachecker/config/components/singleLoopConfig.properties:Analysis /opt/cpachecker/config/components/parallel-singleLoop.properties:Parallel analysis /opt/cpachecker/config/components/parallel-IMC.properties:ResourceLimitChecker.fromConfiguration	Using the following resource limits: CPU-time limit of 900s
+
+2026-02-09 00:27:48:920	INFO	Analysis /opt/cpachecker/config/components/singleLoopConfig.properties:Analysis /opt/cpachecker/config/components/parallel-singleLoop.properties:Parallel analysis /opt/cpachecker/config/components/parallel-IMC.properties:PredicateCPA:PredicateCPA.<init>	Using predicate analysis with MathSAT5 version 5.6.11 (1a1154baf0ab) (Aug  9 2024 08:45:22, gmp 6.2.0, gcc 7.5.0, 64-bit, reentrant).
+
+2026-02-09 00:27:48:969	INFO	Analysis /opt/cpachecker/config/components/singleLoopConfig.properties:RestartAlgorithm.run	Starting analysis 1 ...
+
+2026-02-09 00:27:49:056	INFO	Analysis /opt/cpachecker/config/components/singleLoopConfig.properties:Analysis /opt/cpachecker/config/components/parallel-singleLoop.properties:Parallel analysis /opt/cpachecker/config/components/parallel-valueAnalysis-Cegar.properties:CounterexampleCheckAlgorithm.checkCounterexample	Error path found, starting counterexample check with CPACHECKER.
+
+2026-02-09 00:27:49:102	INFO	Analysis /opt/cpachecker/config/components/singleLoopConfig.properties:Analysis /opt/cpachecker/config/components/parallel-singleLoop.properties:Parallel analysis /opt/cpachecker/config/components/parallel-IMC.properties:LoopBoundCPA:LoopBoundPrecisionAdjustment.nextState	Adjusting maxLoopIterations to 2
+
+2026-02-09 00:27:49:153	INFO	Analysis /opt/cpachecker/config/components/singleLoopConfig.properties:Analysis /opt/cpachecker/config/components/parallel-singleLoop.properties:ParallelAlgorithm.handleFutureResults	/opt/cpachecker/config/components/parallel-predicateAnalysis.properties finished successfully.
+
+2026-02-09 00:27:49:157	INFO	Analysis /opt/cpachecker/config/components/singleLoopConfig.properties:Analysis /opt/cpachecker/config/components/parallel-singleLoop.properties:Parallel analysis /opt/cpachecker/config/components/parallel-dataFlow.properties:ShutdownNotifier.shutdownIfNecessary	Analysis was terminated (One of the parallel analyses has finished successfully, cancelling all other runs.)
+
+2026-02-09 00:27:49:161	INFO	Analysis /opt/cpachecker/config/components/singleLoopConfig.properties:Analysis /opt/cpachecker/config/components/parallel-singleLoop.properties:Parallel analysis /opt/cpachecker/config/components/parallel-symbolicExecution.properties:ShutdownNotifier.shutdownIfNecessary	Analysis was terminated (One of the parallel analyses has finished successfully, cancelling all other runs.)
+
+2026-02-09 00:27:49:161	INFO	Analysis /opt/cpachecker/config/components/singleLoopConfig.properties:Analysis /opt/cpachecker/config/components/parallel-singleLoop.properties:Parallel analysis /opt/cpachecker/config/components/parallel-IMC.properties:ShutdownNotifier.shutdownIfNecessary	Analysis was terminated (One of the parallel analyses has finished successfully, cancelling all other runs.)
+
+2026-02-09 00:27:49:283	WARNING	Analysis /opt/cpachecker/config/components/singleLoopConfig.properties:Analysis /opt/cpachecker/config/components/parallel-singleLoop.properties:Parallel analysis /opt/cpachecker/config/components/parallel-valueAnalysis-Cegar.properties:CounterexampleCheck:AutomatonGraphmlParser.getSpecAsProperties	Cannot map specification // This file is part of CPAchecker,
+// a tool for configurable software verification:
+// https://cpachecker.sosy-lab.org
+//
+// SPDX-FileCopyrightText: 2007-2020 Dirk Beyer <https://www.sosy-lab.org>
+//
+// SPDX-License-Identifier: Apache-2.0
+
+// This automaton contains the specification of the
+// Competition on Software Verification.
+// It checks only for calls to the __VERIFIER_error()/reach_error() functions
+// and also implements some functions which usually lead to a program abort.
+CONTROL AUTOMATON SVCOMP
+
+INITIAL STATE Init;
+
+STATE USEFIRST Init :
+  MATCH {__VERIFIER_error($?)} || MATCH {reach_error($?)} || MATCH FUNCTIONCALL "reach_error"
+      -> ERROR("unreach-call: $rawstatement called in $location");
+  MATCH {__assert_fail($?)} || MATCH {abort($?)} || MATCH {exit($?)} -> STOP;
+
+END AUTOMATON to property type. Will ignore it (would only be problematic if this were the termination property).
+
+2026-02-09 00:27:49:339	INFO	Analysis /opt/cpachecker/config/components/singleLoopConfig.properties:Analysis /opt/cpachecker/config/components/parallel-singleLoop.properties:Parallel analysis /opt/cpachecker/config/components/parallel-valueAnalysis-Cegar.properties:ShutdownNotifier.shutdownIfNecessary	Analysis was terminated (One of the parallel analyses has finished successfully, cancelling all other runs.)
+
+2026-02-09 00:27:49:340	INFO	Analysis /opt/cpachecker/config/components/singleLoopConfig.properties:RestartAlgorithm.skipNextAnalysesIfRequired	Ignoring restart configuration '/opt/cpachecker/config/components/recursion.properties' because condition if-recursive did not match.
+
+2026-02-09 00:27:49:341	INFO	Analysis /opt/cpachecker/config/components/singleLoopConfig.properties:RestartAlgorithm.skipNextAnalysesIfRequired	Ignoring restart configuration '/opt/cpachecker/config/components/concurrency.properties' because condition if-concurrent did not match.
+
+2026-02-09 00:27:49:341	INFO	CPAchecker.runAlgorithm	Stopping analysis ...
+
+2026-02-09 00:27:49:641	WARNING	Analysis /opt/cpachecker/config/components/singleLoopConfig.properties:Analysis /opt/cpachecker/config/components/parallel-singleLoop.properties:Parallel analysis /opt/cpachecker/config/components/parallel-predicateAnalysis.properties:ARGCPA:BufferedWriter.ensureOpen	Warning: Could not write refinement graph to file (Stream closed)
+

@@ -1,0 +1,36 @@
+- entry_type: "invariant_set"
+  metadata:
+    format_version: "2.0"
+    uuid: "7583d189-6dac-3cf0-96bc-382e0aab7d00"
+    creation_time: "2026-02-09T00:27:49-05:00"
+    producer:
+      name: "CPAchecker"
+      version: "4.2.2"
+      configuration: "default"
+    task:
+      input_files:
+      - "./other_benchmarks/SoSY2025/eq2.c"
+      input_file_hashes:
+        "./other_benchmarks/SoSY2025/eq2.c": "bb2f4b3fcb5802ca3bb87a1b0448830eed7051bdf97b38b024222dd0f786b67d"
+      specification: ""
+      data_model: "LP64"
+      language: "C"
+  content:
+  - invariant:
+      type: "loop_invariant"
+      location:
+        file_name: "./other_benchmarks/SoSY2025/eq2.c"
+        line: 30
+        column: 5
+        function: "main"
+      value: "( z == y )"
+      format: "c_expression"
+  - invariant:
+      type: "location_invariant"
+      location:
+        file_name: "./other_benchmarks/SoSY2025/eq2.c"
+        line: 30
+        column: 5
+        function: "main"
+      value: "1"
+      format: "c_expression"

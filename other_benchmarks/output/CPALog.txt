@@ -1,0 +1,40 @@
+2026-02-05 16:40:21:789	INFO	ResourceLimitChecker.fromConfiguration	Using the following resource limits: CPU-time limit of 900s
+
+2026-02-05 16:40:21:872	INFO	CPAchecker.run	CPAchecker 4.2.2 / predicateAnalysis (OpenJDK 64-Bit Server VM 21.0.9) started
+
+2026-02-05 16:40:21:902	INFO	CPAchecker.parse	Parsing CFA from file(s) "fvcss3_7.c"
+
+2026-02-05 16:40:22:803	WARNING	CheckBindingVisitor.visit	Undefined function __VERIFIER_assume found, first called in line 12
+
+2026-02-05 16:40:22:855	WARNING	CheckBindingVisitor.visit	Undefined function __VERIFIER_assert found, first called in line 33
+
+2026-02-05 16:40:22:863	INFO	CFACreationUtils.addEdgeToCFA	line 38: Dead code detected: return 0;
+
+2026-02-05 16:40:23:061	INFO	CPAchecker.run0	Using default specification, which checks for assertion failures and error labels.
+
+2026-02-05 16:40:23:781	INFO	PredicateCPA:PredicateCPA.<init>	Using predicate analysis with MathSAT5 version 5.6.11 (1a1154baf0ab) (Aug  9 2024 08:45:22, gmp 6.2.0, gcc 7.5.0, 64-bit, reentrant) and JFactory 1.21.
+
+2026-02-05 16:40:23:939	INFO	PredicateCPA:PredicateCPARefiner.<init>	Using refinement for predicate analysis with PredicateAbstractionRefinementStrategy strategy.
+
+2026-02-05 16:40:23:963	INFO	CPAchecker.runAlgorithm	Starting analysis ...
+
+2026-02-05 16:40:24:022	WARNING	PredicateCPA:CtoFormulaConverter.getReturnType	line 12: Return type of function __VERIFIER_assume is void, but result is used as type int: __VERIFIER_assume(xp1 <= 5.0000000000000000e-01);
+
+2026-02-05 16:40:24:025	INFO	PredicateCPA:ExpressionToFormulaVisitor.visit	Assuming external function __VERIFIER_assume to be a pure function.
+
+2026-02-05 16:40:24:029	WARNING	PredicateCPA:ExpressionToFormulaVisitor.visit	Cannot get declaration of function __VERIFIER_assume, ignoring calls to it.
+
+2026-02-05 16:40:24:032	WARNING	PredicateCPA:CtoFormulaConverter.getReturnType	line 13: Return type of function __VERIFIER_assume is void, but result is used as type int: __VERIFIER_assume(-5.0000000000000000e-01 <= xp1);
+
+2026-02-05 16:40:24:048	WARNING	PredicateCPA:CtoFormulaConverter.getReturnType	line 20: Return type of function __VERIFIER_assume is void, but result is used as type int: __VERIFIER_assume(yd <= 5.0000000000000000e-01);
+
+2026-02-05 16:40:24:051	WARNING	PredicateCPA:CtoFormulaConverter.getReturnType	line 21: Return type of function __VERIFIER_assume is void, but result is used as type int: __VERIFIER_assume(-5.0000000000000000e-01 <= yd);
+
+2026-02-05 16:40:24:082	WARNING	PredicateCPA:CtoFormulaConverter.getReturnType	line 33: Return type of function __VERIFIER_assert is void, but result is used as type int: __VERIFIER_assert((xp1 + 2.9999999999999999e-01) <= 1.0000000000000001e-01);
+
+2026-02-05 16:40:24:083	INFO	PredicateCPA:ExpressionToFormulaVisitor.visit	Assuming external function __VERIFIER_assert to be a pure function.
+
+2026-02-05 16:40:24:085	WARNING	PredicateCPA:CtoFormulaConverter.getReturnType	line 34: Return type of function __VERIFIER_assert is void, but result is used as type int: __VERIFIER_assert(-1.0000000000000001e-01 <= (xp1 + 2.9999999999999999e-01));
+
+2026-02-05 16:40:24:104	INFO	CPAchecker.runAlgorithm	Stopping analysis ...
+

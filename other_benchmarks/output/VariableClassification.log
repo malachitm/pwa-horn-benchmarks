@@ -1,0 +1,32 @@
+IntBool
+
+[]
+
+IntEq
+
+[]
+
+IntAdd
+
+[]
+
+IntOverflow
+
+[main::__CPAchecker_TMP_0, main::yd, main::xp1, main::xp2, main::i, main::xc2, main::oxp1, main::oxc1, main::oxc2, main::xc1, main::oxp2]
+
+ALL
+
+[main::__CPAchecker_TMP_0, main::xp1, main::yd, main::xp2, main::i, main::xc2, main::oxp1, main::oxc1, main::xc1, main::oxc2, main::oxp2]
+
+DEPENDENCIES
+
+[[main::oxc1, main::oxc2, main::oxp1, main::oxp2, main::xc1, main::xc2, main::xp1, main::xp2, main::yd] --> [0],
+[main::__CPAchecker_TMP_0, main::i] --> [0, 1]]
+
+RELEVANT VARS
+
+[main::xp1, main::yd, main::i, main::xp2, main::xc2, main::oxp1, main::oxc1, main::xc1, main::oxc2, main::oxp2]
+
+RELEVANT FIELDS
+
+{}

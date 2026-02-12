@@ -1,0 +1,6 @@
+(declare-fun |main::z| () (_ BitVec 32))
+(declare-fun |main::y| () (_ BitVec 32))
+
+main N21:
+(assert (let ((.def_74 (= |main::z| |main::y|))).def_74))
+

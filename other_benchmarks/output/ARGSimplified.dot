@@ -1,0 +1,9 @@
+digraph ARG {
+node [style="filled" shape="box" color="white"]
+0 [fillcolor="cornflowerblue" label="0 @ N1\nmain entry\nAbstractionState: ABS0: true\n" id="0"]
+7 [fillcolor="cornflowerblue" label="7 @ N14\nmain\nAbstractionState: ABS1: true\n" id="7"]
+19 [fillcolor="green" label="19 @ N14\nmain\nAbstractionState: ABS2: true\n" id="19"]
+0 -> 7 []
+19 -> 7 [style="dashed" weight="0" label="covered by"]
+7 -> 19 []
+}

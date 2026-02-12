@@ -1,0 +1,27 @@
+- entry_type: "invariant_set"
+  metadata:
+    format_version: "2.0"
+    uuid: "aa721503-4af0-3f41-a90a-8f048246ea5e"
+    creation_time: "2026-02-05T16:40:24-05:00"
+    producer:
+      name: "CPAchecker"
+      version: "4.2.2"
+      configuration: "predicateAnalysis"
+    task:
+      input_files:
+      - "./fvcss3_7.c"
+      input_file_hashes:
+        "./fvcss3_7.c": "90b934cd5a16b4f2efa5c13d15beae0d3295b3f4d265641071f9caaf1fbb2cce"
+      specification: ""
+      data_model: "ILP32"
+      language: "C"
+  content:
+  - invariant:
+      type: "loop_invariant"
+      location:
+        file_name: "./fvcss3_7.c"
+        line: 16
+        column: 5
+        function: "main"
+      value: "1"
+      format: "c_expression"

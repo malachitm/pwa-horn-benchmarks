@@ -1,0 +1,13 @@
+(declare-fun |__VERIFIER_assert::cond| () (_ BitVec 32))
+(declare-fun |main::z| () (_ BitVec 32))
+(declare-fun |main::y| () (_ BitVec 32))
+
+__VERIFIER_assert:
+(assert (let ((.def_63 (= |__VERIFIER_assert::cond| (_ bv0 32)))).def_63))
+
+reach_error N1:
+(assert false)
+
+main N21:
+(assert (let ((.def_74 (= |main::z| |main::y|))).def_74))
+

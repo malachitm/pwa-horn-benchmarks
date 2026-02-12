@@ -1,0 +1,45 @@
+digraph ARG {
+node [style="filled" shape="box" color="white"]
+subgraph cluster_0 {
+label="Refinement 0"
+6 [label="6 @ N34\nmain\n" id="6"]
+32 [fillcolor="cornflowerblue" label="32 @ N21\nmain\nAbstractionState: ABS2: true\n" id="32"]
+51 [label="51 @ N5\n__VERIFIER_assert entry\n" id="51"]
+60 [fillcolor="red" label="60 @ N1\nreach_error entry\nAbstractionState: ABS4: true\n AutomatonState: SVCOMP: _predefinedState_ERROR\n" id="60"]
+56 [fillcolor="orange" label="56 @ N7\n__VERIFIER_assert\n" id="56"]
+44 [fillcolor="green" label="44 @ N21\nmain\nAbstractionState: ABS3: true\n" id="44"]
+6 -> 32 []
+44 -> 32 [style="dashed" weight="0" label="covered by"]
+32 -> 44 []
+32 -> 51 []
+51 -> 56 []
+51 -> 60 []
+}
+2 -> 6
+subgraph cluster_1 {
+label="Refinement 1"
+108 [fillcolor="cornflowerblue" label="108 @ N21\nmain\nAbstractionState: ABS7: true\n" id="108"]
+121 [label="121 @ N5\n__VERIFIER_assert entry\n" id="121"]
+129 [fillcolor="red" label="129 @ N1\nreach_error entry\nAbstractionState: ABS10: true\n AutomatonState: SVCOMP: _predefinedState_ERROR\n" id="129"]
+125 [fillcolor="orange" label="125 @ N7\n__VERIFIER_assert\n" id="125"]
+118 [fillcolor="green" label="118 @ N21\nmain\nAbstractionState: ABS8: true\n" id="118"]
+118 -> 108 [style="dashed" weight="0" label="covered by"]
+108 -> 118 []
+108 -> 121 []
+121 -> 125 []
+121 -> 129 []
+}
+2 -> 108
+2 [fillcolor="cornflowerblue" label="2 @ N14\nmain entry\nAbstractionState: ABS1: true\n" id="2"]
+206 [fillcolor="cornflowerblue" label="206 @ N21\nmain\nAbstractionState: ABS14\n" id="206"]
+219 [label="219 @ N5\n__VERIFIER_assert entry\n" id="219"]
+229 [label="229 @ N4\n__VERIFIER_assert exit\n" id="229"]
+233 [label="233 @ N13\nmain exit\n" id="233"]
+216 [fillcolor="green" label="216 @ N21\nmain\nAbstractionState: ABS15\n" id="216"]
+2 -> 206 []
+216 -> 206 [style="dashed" weight="0" label="covered by"]
+206 -> 216 []
+206 -> 219 []
+219 -> 229 []
+229 -> 233 []
+}

@@ -1,0 +1,9 @@
+main::__CPAchecker_TMP_2	4
+main::__CPAchecker_TMP_1	4
+main::__CPAchecker_TMP_0	7
+main::z	4
+main::y	4
+main::x	4
+main::w	4
+main::__retval__	7
+__VERIFIER_assert::cond	4

@@ -30,7 +30,7 @@
 	(=> 
 		(and
 			( Inv currentvalue error integral controloutput controlsignal i)
-			(= error0 (- 100 currentvalue))
+			(= error0 (- 100.0 currentvalue))
 			(= integral0 (+ integral (* error0 0.1)))
 			(= controloutput0 (+ (* 2.0 error0) (* integral0 0.1)))
 			(= controlsignal0 controloutput0)
@@ -52,16 +52,16 @@
 	(=> 
 		(and
 			( Inv currentvalue error integral controloutput controlsignal i)
-			(= error0 (- 100 currentvalue))
+			(= error0 (- 100.0 currentvalue))
 			(= integral0 (+ integral (* error0 0.1)))
 			(= controloutput0 (+ (* 2.0 error0) (* integral0 0.1)))
 			(= controlsignal0 controloutput0)
 			(= currentvalue0 (+ currentvalue (* controlsignal0 0.1)))
 			(= i0 (+ i 1.0))
 			(not (=> 
-				(>= i0 500) 
+				(>= i0 500.0) 
 				(and
-					(<= (- 0 0.2) (- 100 currentvalue0)) (<= (- 100 currentvalue0) 0.2)
+					(<= (- 0.0 0.2) (- 100.0 currentvalue0)) (<= (- 100.0 currentvalue0) 0.2)
 				)))
 		)
 		false)

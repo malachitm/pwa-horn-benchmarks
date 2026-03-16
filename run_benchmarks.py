@@ -11,16 +11,16 @@ from datetime import datetime
 # Define your tools here.
 # Certificate path is injected per-run, so do NOT include it here.
 TOOLS = {
-    "Phaserr":   ["../build/tools/deep/freqhorn", "--phaserr"],
-    #"Z3": ["z3"],
-    #"Golem": ["golem", "--engine", "split-tpa"]
+    #"Phaserr":   ["../build/tools/deep/freqhorn", "--phaserr"],
+    #"Spacer": ["z3"],
+    "Golem": ["golem", "--engine", "split-tpa"]
     #"cvc5": ["cvc5", "--incremental"],
     #"MathSAT": ["mathsat"]
     #"GSpacer": ["gspacer"]
 }
 
 OUTPUT_CSV = "benchmark_results_" + datetime.now().strftime("%Y%m%d_%H%M%S") + ".csv"
-TIMEOUT_SECONDS = 60
+TIMEOUT_SECONDS = 20
 CERT_DIR = "./certificate"
 # =================================================
 
@@ -135,8 +135,7 @@ def main():
             # 1. Extract parameters
             params = extract_params(filename)
             
-            if idx % 10 == 0:
-                print(f"Processing {idx}/{len(files)}: {filename}...")
+            print(f"Processing {idx}/{len(files)}: {filename}...")
 
             # 2. Run tools
             for tool_name, tool_cmd in TOOLS.items():

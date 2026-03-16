@@ -1,0 +1,4 @@
+Filename,Param_1,Param_2,Param_3,Param_4,Tool,Result,Time_Seconds
+eady_lqr_closed_loop_10.smt2,lqr,closed,loop,10,Golem,sat,2.6357
+eady_lqr_closed_loop_100.smt2,lqr,closed,loop,100,Golem,TIMEOUT,20.0363
+eady_lqr_closed_loop_15.smt2,lqr,closed,loop,15,Golem,sat,6.1827

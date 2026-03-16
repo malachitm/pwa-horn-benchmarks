@@ -1,6 +1,5 @@
 ; Modification of Figure 3.7 from Formal Verification of Control System Software (2019)
-; In particular, it limits it in the sense that yd is fixed after the initial step, but
-; expands it by having xp1 become a parameter instead of strictly 0.
+; In particular, it limits it in the sense that yd is fixed after the initial step
 
 (set-logic HORN)
 (declare-fun Inv (Real Real Real Real Real Real) Bool)
@@ -14,7 +13,7 @@
 		(and 
 			(= xc1 0.0)
             (= xc2 0.0)
-            (<= -0.5 xp1) (<= xp1 0.5)
+            (= xp1 0.0)
             (= xp2 0.0)
             (<= -0.5 yd) (<= yd 0.5)
 			(= i 0)

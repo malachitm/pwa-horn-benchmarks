@@ -122,15 +122,15 @@ int main()
     // 3 steps = 729 files.
     // 5 steps = 15,625 files.
     // 10 steps = 1,000,000 files.
-    const int STEPS = 3;
+    const int STEPS = 4;
 
     // Ranges based on your original distribution logic
-    const double R1_MIN = 0.0, R1_MAX = 100.0;
-    const double R3_MIN = 0.0, R3_MAX = 100.0;
-    const double R4_MIN = 0.1, R4_MAX = 0.3;
-    const double R5_MIN = 100.0, R5_MAX = 2000.0;
-    const double R6_MIN = 0.0, R6_MAX = 25.0;
-    const double R7_MIN = 0.0, R7_MAX = 25.0;
+    const double R1_MIN = 0.0, R1_MAX = 0.0;
+    const double R3_MIN = 1000.0, R3_MAX = 3250.0;
+    const double R4_MIN = 0.0009, R4_MAX = 0.09;
+    const double R5_MIN = 9000.0, R5_MAX = 9000.0;
+    const double R6_MIN = 1.0, R6_MAX = 1.0;
+    const double R7_MIN = 1.0, R7_MAX = 1.0;
     // =================================================
 
     // Pre-calculate the values for each parameter
@@ -179,7 +179,7 @@ int main()
                             // Format: p_R1_R3_R4_R5_R6_R7.smt2
                             // We use 2 decimal places for the filename to keep it readable
                             std::string filename = std::format(
-                                "p_{:.2f}_{:.2f}_{:.2f}_{:.2f}_{:.2f}_{:.2f}.smt2",
+                                "p_{:.2f}_{:.2f}_{:.4f}_{:.2f}_{:.2f}_{:.2f}.smt2",
                                 r1, r3, r4, r5, r6, r7);
 
                             std::ofstream outfile(filename);

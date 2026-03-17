@@ -1,0 +1,1135 @@
+Filename,Tool,Result,Time_Seconds
+c0.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0331
+c0.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.1226
+c1.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0145
+c1.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0995
+c10.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0121
+c10.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0718
+c100.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0110
+c100.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.1155
+c101.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0156
+c101.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.1153
+c102.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0168
+c102.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.1166
+c103.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0113
+c103.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.1152
+c104.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0142
+c104.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.1139
+c105.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0131
+c105.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0979
+c106.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0129
+c106.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.1057
+c107.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0143
+c107.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0971
+c108.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0124
+c108.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0877
+c109.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0143
+c109.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.1117
+c11.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0118
+c11.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.1008
+c110.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0116
+c110.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0859
+c111.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0122
+c111.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0745
+c112.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0122
+c112.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0722
+c113.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0107
+c113.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0871
+c114.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0123
+c114.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0747
+c115.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0114
+c115.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0863
+c116.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0124
+c116.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0768
+c117.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0114
+c117.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0784
+c118.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0110
+c118.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0740
+c119.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0107
+c119.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0825
+c12.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0111
+c12.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0817
+c120.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0116
+c120.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0786
+c121.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0106
+c121.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0860
+c122.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0095
+c122.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0773
+c123.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0097
+c123.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0786
+c124.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0094
+c124.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0775
+c125.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0097
+c125.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0851
+c126.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0094
+c126.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0689
+c127.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0095
+c127.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0746
+c128.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c128.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0858
+c129.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0099
+c129.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0820
+c13.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0098
+c13.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0714
+c130.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c130.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0793
+c131.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0098
+c131.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0836
+c132.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c132.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0838
+c133.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0117
+c133.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0835
+c134.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0105
+c134.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0764
+c135.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0111
+c135.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0871
+c136.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0101
+c136.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0707
+c137.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0101
+c137.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0833
+c138.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c138.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0816
+c139.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c139.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0842
+c14.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c14.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0870
+c140.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0095
+c140.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0857
+c141.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0101
+c141.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0821
+c142.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0101
+c142.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0820
+c143.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0098
+c143.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0823
+c144.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0104
+c144.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0831
+c145.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0099
+c145.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0681
+c146.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0101
+c146.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0714
+c147.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c147.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0891
+c148.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0095
+c148.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0843
+c149.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0093
+c149.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0816
+c15.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0093
+c15.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0809
+c150.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c150.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0864
+c151.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0097
+c151.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0836
+c152.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0110
+c152.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0892
+c153.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0097
+c153.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0862
+c154.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0095
+c154.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0843
+c155.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0093
+c155.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0847
+c156.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0098
+c156.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0920
+c157.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0102
+c157.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0968
+c158.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0104
+c158.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.1039
+c159.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c159.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0831
+c16.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c16.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0838
+c160.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c160.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0871
+c161.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0095
+c161.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0761
+c162.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0119
+c162.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0789
+c163.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0094
+c163.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0818
+c164.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0099
+c164.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0693
+c165.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c165.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0791
+c166.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c166.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0710
+c167.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c167.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0804
+c168.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0095
+c168.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0841
+c169.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0094
+c169.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0741
+c17.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c17.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0823
+c170.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0103
+c170.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0864
+c171.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0093
+c171.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0933
+c172.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0093
+c172.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0772
+c173.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0098
+c173.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0672
+c174.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c174.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0747
+c175.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0095
+c175.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0808
+c176.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0103
+c176.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0973
+c177.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0098
+c177.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0775
+c178.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c178.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0775
+c179.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0172
+c179.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0698
+c18.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0097
+c18.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0858
+c180.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0101
+c180.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0677
+c181.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0098
+c181.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0690
+c182.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c182.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0732
+c183.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c183.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0671
+c184.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c184.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0670
+c185.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0086
+c185.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0920
+c186.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0093
+c186.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0890
+c187.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0099
+c187.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0801
+c188.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0099
+c188.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0693
+c189.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0093
+c189.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0736
+c19.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c19.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0812
+c190.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c190.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0772
+c191.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0101
+c191.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0658
+c192.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c192.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0805
+c193.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c193.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0687
+c194.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0093
+c194.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0786
+c195.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0093
+c195.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0791
+c196.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c196.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0787
+c197.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c197.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0796
+c198.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0099
+c198.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0847
+c199.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0094
+c199.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0781
+c2.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0107
+c2.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0787
+c20.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c20.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0783
+c200.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c200.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0767
+c201.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c201.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0782
+c202.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c202.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0782
+c203.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c203.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0769
+c204.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c204.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0762
+c205.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c205.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0770
+c206.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0097
+c206.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0778
+c207.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c207.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0800
+c208.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c208.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0646
+c209.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0086
+c209.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0822
+c21.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0097
+c21.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0703
+c210.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c210.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0793
+c211.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0094
+c211.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0787
+c212.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c212.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0863
+c213.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0094
+c213.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0807
+c214.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c214.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0786
+c215.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0094
+c215.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.1023
+c216.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c216.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0800
+c217.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0093
+c217.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0799
+c218.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c218.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0815
+c219.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c219.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0789
+c22.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c22.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0817
+c220.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c220.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0825
+c221.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0099
+c221.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0813
+c222.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0098
+c222.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0834
+c223.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0095
+c223.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0855
+c224.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0110
+c224.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0862
+c225.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0098
+c225.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0834
+c226.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0095
+c226.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0832
+c227.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0104
+c227.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0866
+c228.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0094
+c228.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0804
+c229.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0097
+c229.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0807
+c23.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0094
+c23.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',1.8883
+c230.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0101
+c230.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0812
+c231.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0095
+c231.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0829
+c232.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c232.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0841
+c233.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0113
+c233.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0899
+c234.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0097
+c234.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0803
+c235.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0094
+c235.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0830
+c236.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c236.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0827
+c237.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0097
+c237.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0859
+c238.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c238.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0821
+c239.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0094
+c239.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0807
+c24.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0093
+c24.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0741
+c240.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0086
+c240.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0719
+c241.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0084
+c241.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0778
+c242.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0093
+c242.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0834
+c243.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c243.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0798
+c244.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0093
+c244.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0985
+c245.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0095
+c245.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0785
+c246.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c246.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0777
+c247.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c247.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0795
+c248.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c248.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0754
+c249.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c249.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0746
+c25.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c25.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0759
+c250.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0085
+c250.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0778
+c251.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0093
+c251.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0848
+c252.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c252.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0772
+c253.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c253.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0746
+c254.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0086
+c254.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0740
+c255.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0085
+c255.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0747
+c256.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0087
+c256.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0773
+c257.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0087
+c257.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0794
+c258.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0087
+c258.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0770
+c259.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c259.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0747
+c26.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c26.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0767
+c260.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0119
+c260.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0837
+c261.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c261.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0641
+c262.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c262.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0657
+c263.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0095
+c263.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0786
+c264.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c264.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0778
+c265.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c265.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0761
+c266.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c266.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0799
+c267.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0112
+c267.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0766
+c268.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c268.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0608
+c269.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0086
+c269.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0756
+c27.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c27.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0798
+c270.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c270.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0759
+c271.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c271.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0785
+c272.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0110
+c272.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0792
+c273.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c273.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0747
+c274.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0087
+c274.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0824
+c275.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0122
+c275.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0845
+c276.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c276.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0779
+c277.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c277.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0652
+c278.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c278.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0675
+c279.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0097
+c279.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0710
+c28.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0094
+c28.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0685
+c280.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c280.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0744
+c281.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c281.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0763
+c282.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c282.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0762
+c283.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c283.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0762
+c284.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c284.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0770
+c285.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0086
+c285.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0762
+c286.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c286.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0758
+c287.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c287.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0768
+c288.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0111
+c288.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0806
+c289.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c289.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0809
+c29.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c29.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0806
+c290.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c290.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0754
+c291.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c291.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0788
+c292.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c292.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0769
+c293.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c293.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0764
+c294.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c294.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0766
+c295.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0086
+c295.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0755
+c296.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0087
+c296.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0801
+c297.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0118
+c297.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0795
+c298.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c298.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0780
+c299.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0101
+c299.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0807
+c3.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0104
+c3.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0735
+c30.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0095
+c30.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0818
+c300.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c300.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0830
+c301.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c301.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0804
+c302.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c302.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0842
+c303.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0099
+c303.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0834
+c304.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0100
+c304.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.1065
+c305.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0120
+c305.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0876
+c306.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0102
+c306.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0786
+c307.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0106
+c307.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0705
+c308.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0101
+c308.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0693
+c309.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0102
+c309.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0746
+c31.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0097
+c31.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0693
+c310.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0095
+c310.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0739
+c311.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0101
+c311.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0817
+c312.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0094
+c312.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.1069
+c313.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0101
+c313.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0863
+c314.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0102
+c314.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0868
+c315.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0105
+c315.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0883
+c316.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0101
+c316.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0883
+c317.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0103
+c317.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0865
+c318.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c318.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0778
+c319.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0104
+c319.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0853
+c32.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0093
+c32.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0832
+c320.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0094
+c320.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0833
+c321.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0093
+c321.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0746
+c322.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c322.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0751
+c323.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0094
+c323.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0812
+c324.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c324.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0764
+c325.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c325.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0745
+c326.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c326.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0737
+c327.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0087
+c327.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0742
+c328.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0086
+c328.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0745
+c329.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0100
+c329.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0759
+c33.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c33.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0659
+c330.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c330.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0771
+c331.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0087
+c331.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0782
+c332.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0098
+c332.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0714
+c333.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0093
+c333.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0693
+c334.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c334.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0819
+c335.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0094
+c335.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0698
+c336.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c336.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0742
+c337.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0087
+c337.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0639
+c338.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0084
+c338.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0786
+c339.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0086
+c339.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0718
+c34.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0086
+c34.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0768
+c340.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c340.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0763
+c341.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c341.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0799
+c342.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c342.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0632
+c343.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c343.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0756
+c344.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0095
+c344.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0673
+c345.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c345.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0647
+c346.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c346.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0731
+c347.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0093
+c347.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0656
+c348.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c348.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0742
+c349.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0084
+c349.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0775
+c35.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0083
+c35.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0772
+c350.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c350.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0869
+c351.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c351.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0750
+c352.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c352.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0766
+c353.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0086
+c353.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0744
+c354.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0086
+c354.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0779
+c355.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c355.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0783
+c356.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c356.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0830
+c357.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c357.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0670
+c358.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0101
+c358.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0721
+c359.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c359.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0649
+c36.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c36.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0778
+c360.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0087
+c360.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0639
+c361.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c361.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0663
+c362.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c362.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0740
+c363.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c363.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0773
+c364.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c364.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0670
+c365.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c365.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0793
+c366.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c366.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0982
+c367.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0104
+c367.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0807
+c368.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c368.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0771
+c369.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0102
+c369.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0684
+c37.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0093
+c37.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0790
+c370.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0099
+c370.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0670
+c371.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c371.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0776
+c372.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c372.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0784
+c373.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c373.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0775
+c374.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c374.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0768
+c375.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c375.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0769
+c376.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c376.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0763
+c377.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c377.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0752
+c378.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c378.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0838
+c379.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c379.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0858
+c38.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0095
+c38.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0812
+c380.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c380.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0802
+c381.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0105
+c381.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0793
+c382.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0095
+c382.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0905
+c383.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0093
+c383.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0776
+c384.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c384.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0794
+c385.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0093
+c385.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0790
+c386.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0095
+c386.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0812
+c387.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0103
+c387.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0874
+c388.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c388.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0817
+c389.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c389.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0836
+c39.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c39.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0821
+c390.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0095
+c390.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0824
+c391.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c391.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0849
+c392.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0100
+c392.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0873
+c393.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0098
+c393.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0844
+c394.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0095
+c394.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0940
+c395.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0116
+c395.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.1031
+c396.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0103
+c396.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0895
+c397.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c397.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0804
+c398.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c398.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0824
+c399.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c399.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0814
+c4.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0093
+c4.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0813
+c40.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0093
+c40.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0798
+c400.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c400.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0818
+c401.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0097
+c401.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0812
+c402.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0097
+c402.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0862
+c403.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0095
+c403.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0820
+c404.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0104
+c404.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0794
+c405.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c405.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0759
+c406.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0097
+c406.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0746
+c407.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0087
+c407.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0747
+c408.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c408.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0759
+c409.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0084
+c409.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0755
+c41.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c41.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0739
+c410.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0094
+c410.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0739
+c411.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c411.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0752
+c412.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c412.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0745
+c413.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c413.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0801
+c414.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0097
+c414.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0755
+c415.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c415.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0772
+c416.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0085
+c416.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0770
+c417.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0107
+c417.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0914
+c418.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c418.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0724
+c419.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c419.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0813
+c42.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c42.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0730
+c420.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c420.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0788
+c421.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c421.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0747
+c422.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c422.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0738
+c423.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0100
+c423.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0804
+c424.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c424.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0701
+c425.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c425.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0770
+c426.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0087
+c426.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0777
+c427.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c427.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0737
+c428.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0086
+c428.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0760
+c429.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c429.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0741
+c43.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0086
+c43.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0771
+c430.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0086
+c430.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0726
+c431.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c431.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0819
+c432.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c432.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0884
+c433.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c433.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0729
+c434.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0086
+c434.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0748
+c435.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c435.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0731
+c436.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0087
+c436.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0767
+c437.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0085
+c437.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0837
+c438.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0095
+c438.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0752
+c439.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c439.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0753
+c44.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0085
+c44.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0663
+c440.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c440.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0803
+c441.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c441.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0789
+c442.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c442.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0742
+c443.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0087
+c443.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0781
+c444.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0101
+c444.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0754
+c445.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c445.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0779
+c446.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c446.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0753
+c447.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0086
+c447.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0756
+c448.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c448.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0749
+c449.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c449.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0739
+c45.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0087
+c45.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0816
+c450.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0098
+c450.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0749
+c451.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c451.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0746
+c452.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c452.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0803
+c453.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c453.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0760
+c454.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0095
+c454.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.1129
+c455.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0158
+c455.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0748
+c456.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0100
+c456.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0699
+c457.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0100
+c457.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0764
+c458.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0105
+c458.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0763
+c459.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0099
+c459.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0879
+c46.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0099
+c46.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0844
+c460.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0094
+c460.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0852
+c461.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c461.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0821
+c462.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c462.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0847
+c463.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0097
+c463.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0857
+c464.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0099
+c464.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0792
+c465.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c465.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0835
+c466.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0093
+c466.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0856
+c467.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0099
+c467.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0867
+c468.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0101
+c468.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0925
+c469.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0098
+c469.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.1044
+c47.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0097
+c47.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0748
+c470.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c470.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0743
+c471.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0099
+c471.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0855
+c472.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0100
+c472.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0710
+c473.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c473.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0734
+c474.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0094
+c474.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0815
+c475.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0093
+c475.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0751
+c476.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0097
+c476.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0858
+c477.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c477.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0749
+c478.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0097
+c478.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0698
+c479.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0097
+c479.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0865
+c48.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0097
+c48.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0862
+c480.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0100
+c480.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0807
+c481.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0093
+c481.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0826
+c482.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0095
+c482.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.1039
+c483.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0131
+c483.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0822
+c484.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0098
+c484.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0714
+c485.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0094
+c485.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0851
+c486.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0097
+c486.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0744
+c487.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c487.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0784
+c488.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c488.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0782
+c489.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0087
+c489.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0778
+c49.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c49.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0777
+c490.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c490.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0777
+c491.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c491.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0784
+c492.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c492.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0757
+c493.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c493.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0827
+c494.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c494.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0752
+c495.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c495.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0741
+c496.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0094
+c496.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0636
+c497.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c497.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0672
+c498.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c498.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0687
+c499.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0085
+c499.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0797
+c5.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c5.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0787
+c50.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c50.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0767
+c500.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0094
+c500.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0774
+c501.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c501.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0755
+c502.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c502.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0758
+c503.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c503.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0828
+c504.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c504.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0767
+c505.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c505.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0748
+c506.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c506.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0761
+c507.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0097
+c507.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0750
+c508.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0087
+c508.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0787
+c509.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0098
+c509.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0759
+c51.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c51.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0784
+c510.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c510.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0777
+c511.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c511.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0777
+c512.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0094
+c512.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0895
+c513.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0102
+c513.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0810
+c514.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c514.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0675
+c515.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c515.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0720
+c516.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c516.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0774
+c517.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c517.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0769
+c518.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c518.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0764
+c519.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c519.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0799
+c52.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c52.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0748
+c520.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0097
+c520.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.1022
+c521.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0101
+c521.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0773
+c522.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c522.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0634
+c523.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c523.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0738
+c524.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0093
+c524.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0758
+c525.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c525.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0770
+c526.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c526.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0764
+c527.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0107
+c527.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0778
+c528.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c528.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0766
+c529.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c529.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0758
+c53.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c53.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0834
+c530.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0097
+c530.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0802
+c531.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0093
+c531.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0693
+c532.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c532.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0705
+c533.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0095
+c533.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0673
+c534.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0097
+c534.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0826
+c535.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0107
+c535.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0792
+c536.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c536.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0775
+c537.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0094
+c537.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0789
+c538.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c538.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0825
+c539.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0098
+c539.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0811
+c54.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0099
+c54.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0982
+c540.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0098
+c540.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0788
+c541.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0098
+c541.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0775
+c542.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0101
+c542.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0918
+c543.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0121
+c543.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0811
+c544.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0098
+c544.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0843
+c545.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0112
+c545.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0774
+c546.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0102
+c546.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0824
+c547.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0099
+c547.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0806
+c548.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0100
+c548.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0762
+c549.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0101
+c549.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0885
+c55.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0115
+c55.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0697
+c550.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c550.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0742
+c551.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0100
+c551.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0847
+c552.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0099
+c552.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0832
+c553.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c553.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0812
+c554.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0094
+c554.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0886
+c555.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0101
+c555.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.1049
+c556.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c556.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0873
+c557.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0097
+c557.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0880
+c558.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0121
+c558.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0909
+c559.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0106
+c559.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0889
+c56.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0099
+c56.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',1.8336
+c560.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0101
+c560.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0764
+c561.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0095
+c561.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0987
+c562.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0105
+c562.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0790
+c563.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0101
+c563.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0887
+c564.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c564.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0899
+c565.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c565.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0819
+c566.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0097
+c566.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0868
+c57.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0102
+c57.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0846
+c58.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c58.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0764
+c59.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0087
+c59.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0747
+c6.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c6.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0797
+c60.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0101
+c60.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0983
+c61.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0105
+c61.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0826
+c62.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c62.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0691
+c63.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c63.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0735
+c64.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0095
+c64.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0750
+c65.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0087
+c65.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0742
+c66.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0095
+c66.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0795
+c67.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0098
+c67.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0770
+c68.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0093
+c68.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0763
+c69.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c69.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0752
+c7.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0087
+c7.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0736
+c70.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0086
+c70.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0766
+c71.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0091
+c71.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0746
+c72.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c72.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0746
+c73.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0084
+c73.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0740
+c74.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c74.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0824
+c75.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0099
+c75.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0823
+c76.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c76.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0753
+c77.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c77.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0741
+c78.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c78.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0779
+c79.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0094
+c79.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0760
+c8.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c8.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0755
+c80.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0093
+c80.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0768
+c81.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0097
+c81.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0756
+c82.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c82.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0744
+c83.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c83.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0763
+c84.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0103
+c84.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0789
+c85.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0094
+c85.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0835
+c86.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0096
+c86.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0699
+c87.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0089
+c87.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0772
+c88.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0094
+c88.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0731
+c89.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c89.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0773
+c9.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0087
+c9.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0747
+c90.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0093
+c90.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0779
+c91.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c91.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0927
+c92.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0108
+c92.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0769
+c93.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c93.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0701
+c94.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0092
+c94.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0625
+c95.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0088
+c95.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0704
+c96.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0087
+c96.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0766
+c97.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0090
+c97.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0742
+c98.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0086
+c98.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0758
+c99.smt2,cvc5," [STDERR: (error ""Error in option parsing: can't understand option `--certificate'"")  Please use --help to get help on command-line options.]",0.0087
+c99.smt2,MathSAT,ERROR: [Errno 2] No such file or directory: 'mathsat',0.0736

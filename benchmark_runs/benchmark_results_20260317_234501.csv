@@ -1,0 +1,38 @@
+Filename,Param_1,Param_2,Param_3,Param_4,Param_5,Param_6,Tool,Result,Time_Seconds
+p_0.00_1000.00_0.0009_9000.00_1.00_1.00.smt2,0.00,1000.00,0.0009,9000.00,1.00,1.00,Phaserr,TIMEOUT,7706.9689
+p_0.00_1000.00_0.0232_9000.00_1.00_1.00.smt2,0.00,1000.00,0.0232,9000.00,1.00,1.00,Phaserr,Certificate written to ./phaserr_certificate.smt2 294,588.1029
+p_0.00_1000.00_0.0306_9000.00_1.00_1.00.smt2,0.00,1000.00,0.0306,9000.00,1.00,1.00,Phaserr,Certificate written to ./phaserr_certificate.smt2 222,264.4563
+p_0.00_1000.00_0.0454_9000.00_1.00_1.00.smt2,0.00,1000.00,0.0454,9000.00,1.00,1.00,Phaserr,Certificate written to ./phaserr_certificate.smt2 148,81.6432
+p_0.00_1000.00_0.0603_9000.00_1.00_1.00.smt2,0.00,1000.00,0.0603,9000.00,1.00,1.00,Phaserr,Certificate written to ./phaserr_certificate.smt2 111,30.6387
+p_0.00_1000.00_0.0677_9000.00_1.00_1.00.smt2,0.00,1000.00,0.0677,9000.00,1.00,1.00,Phaserr,Certificate written to ./phaserr_certificate.smt2 98,23.9800
+p_0.00_1000.00_0.0900_9000.00_1.00_1.00.smt2,0.00,1000.00,0.0900,9000.00,1.00,1.00,Phaserr,Certificate written to ./phaserr_certificate.smt2 73,6.7019
+p_0.00_1562.50_0.0009_9000.00_1.00_1.00.smt2,0.00,1562.50,0.0009,9000.00,1.00,1.00,Phaserr,TIMEOUT,7725.1708
+p_0.00_1562.50_0.0232_9000.00_1.00_1.00.smt2,0.00,1562.50,0.0232,9000.00,1.00,1.00,Phaserr,Certificate written to ./phaserr_certificate.smt2 313,678.6928
+p_0.00_1562.50_0.0454_9000.00_1.00_1.00.smt2,0.00,1562.50,0.0454,9000.00,1.00,1.00,Phaserr,Certificate written to ./phaserr_certificate.smt2 158,100.6926
+p_0.00_1562.50_0.0677_9000.00_1.00_1.00.smt2,0.00,1562.50,0.0677,9000.00,1.00,1.00,Phaserr,Certificate written to ./phaserr_certificate.smt2 104,25.3144
+p_0.00_1562.50_0.0900_9000.00_1.00_1.00.smt2,0.00,1562.50,0.0900,9000.00,1.00,1.00,Phaserr,Certificate written to ./phaserr_certificate.smt2 77,9.8820
+p_0.00_1750.00_0.0009_9000.00_1.00_1.00.smt2,0.00,1750.00,0.0009,9000.00,1.00,1.00,Phaserr,TIMEOUT,7739.5123
+p_0.00_1750.00_0.0306_9000.00_1.00_1.00.smt2,0.00,1750.00,0.0306,9000.00,1.00,1.00,Phaserr,Certificate written to ./phaserr_certificate.smt2 240,325.9376
+p_0.00_1750.00_0.0603_9000.00_1.00_1.00.smt2,0.00,1750.00,0.0603,9000.00,1.00,1.00,Phaserr,Certificate written to ./phaserr_certificate.smt2 120,37.5497
+p_0.00_1750.00_0.0900_9000.00_1.00_1.00.smt2,0.00,1750.00,0.0900,9000.00,1.00,1.00,Phaserr,Certificate written to ./phaserr_certificate.smt2 79,7.8520
+p_0.00_2125.00_0.0009_9000.00_1.00_1.00.smt2,0.00,2125.00,0.0009,9000.00,1.00,1.00,Phaserr,TIMEOUT,7772.9342
+p_0.00_2125.00_0.0232_9000.00_1.00_1.00.smt2,0.00,2125.00,0.0232,9000.00,1.00,1.00,Phaserr,Certificate written to ./phaserr_certificate.smt2 326,769.8139
+p_0.00_2125.00_0.0454_9000.00_1.00_1.00.smt2,0.00,2125.00,0.0454,9000.00,1.00,1.00,Phaserr,Certificate written to ./phaserr_certificate.smt2 164,117.3244
+p_0.00_2125.00_0.0677_9000.00_1.00_1.00.smt2,0.00,2125.00,0.0677,9000.00,1.00,1.00,Phaserr,Certificate written to ./phaserr_certificate.smt2 109,33.2838
+p_0.00_2125.00_0.0900_9000.00_1.00_1.00.smt2,0.00,2125.00,0.0900,9000.00,1.00,1.00,Phaserr,Certificate written to ./phaserr_certificate.smt2 81,8.3749
+p_0.00_2500.00_0.0009_9000.00_1.00_1.00.smt2,0.00,2500.00,0.0009,9000.00,1.00,1.00,Phaserr,TIMEOUT,7789.8467
+p_0.00_2500.00_0.0306_9000.00_1.00_1.00.smt2,0.00,2500.00,0.0306,9000.00,1.00,1.00,Phaserr,Certificate written to ./phaserr_certificate.smt2 251,374.0593
+p_0.00_2500.00_0.0603_9000.00_1.00_1.00.smt2,0.00,2500.00,0.0603,9000.00,1.00,1.00,Phaserr,Certificate written to ./phaserr_certificate.smt2 125,53.0613
+p_0.00_2500.00_0.0900_9000.00_1.00_1.00.smt2,0.00,2500.00,0.0900,9000.00,1.00,1.00,Phaserr,Certificate written to ./phaserr_certificate.smt2 82,9.1802
+p_0.00_2687.50_0.0009_9000.00_1.00_1.00.smt2,0.00,2687.50,0.0009,9000.00,1.00,1.00,Phaserr,TIMEOUT,7933.3324
+p_0.00_2687.50_0.0232_9000.00_1.00_1.00.smt2,0.00,2687.50,0.0232,9000.00,1.00,1.00,Phaserr,Certificate written to ./phaserr_certificate.smt2 336,879.6857
+p_0.00_2687.50_0.0454_9000.00_1.00_1.00.smt2,0.00,2687.50,0.0454,9000.00,1.00,1.00,Phaserr,Certificate written to ./phaserr_certificate.smt2 169,144.0033
+p_0.00_2687.50_0.0677_9000.00_1.00_1.00.smt2,0.00,2687.50,0.0677,9000.00,1.00,1.00,Phaserr,Certificate written to ./phaserr_certificate.smt2 112,37.5347
+p_0.00_2687.50_0.0900_9000.00_1.00_1.00.smt2,0.00,2687.50,0.0900,9000.00,1.00,1.00,Phaserr,Certificate written to ./phaserr_certificate.smt2 83,9.5002
+p_0.00_3250.00_0.0009_9000.00_1.00_1.00.smt2,0.00,3250.00,0.0009,9000.00,1.00,1.00,Phaserr,TIMEOUT,7895.7511
+p_0.00_3250.00_0.0232_9000.00_1.00_1.00.smt2,0.00,3250.00,0.0232,9000.00,1.00,1.00,Phaserr,Certificate written to ./phaserr_certificate.smt2 344,922.4064
+p_0.00_3250.00_0.0306_9000.00_1.00_1.00.smt2,0.00,3250.00,0.0306,9000.00,1.00,1.00,Phaserr,Certificate written to ./phaserr_certificate.smt2 260,417.9822
+p_0.00_3250.00_0.0454_9000.00_1.00_1.00.smt2,0.00,3250.00,0.0454,9000.00,1.00,1.00,Phaserr,Certificate written to ./phaserr_certificate.smt2 173,155.7214
+p_0.00_3250.00_0.0603_9000.00_1.00_1.00.smt2,0.00,3250.00,0.0603,9000.00,1.00,1.00,Phaserr,Certificate written to ./phaserr_certificate.smt2 130,54.0081
+p_0.00_3250.00_0.0677_9000.00_1.00_1.00.smt2,0.00,3250.00,0.0677,9000.00,1.00,1.00,Phaserr,Certificate written to ./phaserr_certificate.smt2 115,40.1254
+p_0.00_3250.00_0.0900_9000.00_1.00_1.00.smt2,0.00,3250.00,0.0900,9000.00,1.00,1.00,Phaserr,Certificate written to ./phaserr_certificate.smt2 85,12.9507

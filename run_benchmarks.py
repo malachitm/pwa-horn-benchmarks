@@ -11,17 +11,17 @@ from datetime import datetime
 # Define your tools here.
 # Certificate path is injected per-run, so do NOT include it here.
 TOOLS = {
-    #"Phaserr":   ["../build/tools/deep/freqhorn", "--phaserr"]
-    "Spacer": ["z3"],
-    "Golem": ["golem", "--engine", "dar"]
+    "Phaserr":   ["../build/tools/deep/freqhorn", "--v5"]
+    #"Spacer": ["z3"],
+    #"Golem": ["golem", "--engine", "dar"]
     #"cvc5": ["cvc5", "--incremental"],
     #"MathSAT": ["mathsat"]
     #"GSpacer": ["gspacer"]
 }
 
 OUTPUT_CSV = "benchmark_results_" + datetime.now().strftime("%Y%m%d_%H%M%S") + ".csv"
-TIMEOUT_SECONDS = 60
-CERT_DIR = "./certificate"
+TIMEOUT_SECONDS = 7200
+CERT_DIR = "./certificate2"
 # =================================================
 
 def run_single_tool(tool_command_list, filepath, run_index=0):

@@ -122,23 +122,23 @@ int main()
     // 3 steps = 729 files.
     // 5 steps = 15,625 files.
     // 10 steps = 1,000,000 files.
-    const int STEPS = 3;
+    const int STEPS = 30;
 
     // Ranges based on your original distribution logic
-    const double R1_MIN = 0.0, R1_MAX = 9000.0;
-    const double R2_MIN = 9000.0, R2_MAX = 18000.0;
-    const double R3_MIN = 1000.0, R3_MAX = 3250.0;
-    const double R4_MIN = 0.0009, R4_MAX = 0.09;
-    const double R5_MIN = 9000.0, R5_MAX = 9000.0;
+    const double R1_MIN = 0.0, R1_MAX = 0.0;
+    const double R2_MIN = 0.0, R2_MAX = 300.0;
+    const double R3_MIN = 100.0, R3_MAX = 100.0;
+    const double R4_MIN = 0.1, R4_MAX = 0.1;
+    const double R5_MIN = 200.0, R5_MAX = 200.0;
     const double R6_MIN = 1.0, R6_MAX = 1.0;
     const double R7_MIN = 1.0, R7_MAX = 1.0;
     // =================================================
 
     // Pre-calculate the values for each parameter
-    auto r1_vals = linspace(R1_MIN, R1_MAX, STEPS);
+    auto r1_vals = linspace(R1_MIN, R1_MAX, 1);
     auto r2_vals = linspace(R2_MIN, R2_MAX, STEPS);
-    auto r3_vals = linspace(R3_MIN, R3_MAX, STEPS);
-    auto r4_vals = linspace(R4_MIN, R4_MAX, STEPS);
+    auto r3_vals = linspace(R3_MIN, R3_MAX, 1);
+    auto r4_vals = linspace(R4_MIN, R4_MAX, 1);
     auto r5_vals = linspace(R5_MIN, R5_MAX, 1);
     auto r6_vals = linspace(R6_MIN, R6_MAX, 1);
     auto r7_vals = linspace(R7_MIN, R7_MAX, 1);

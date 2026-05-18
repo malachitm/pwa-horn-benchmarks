@@ -11,16 +11,16 @@ from datetime import datetime
 # Define your tools here.
 # Certificate path is injected per-run, so do NOT include it here.
 TOOLS = {
-    "Phaserr":   ["../build/tools/deep/freqhorn", "--phaserr"]
-    #"Spacer": ["z3"],
-    #"Golem": ["golem", "--engine", "dar"]
+    "Phaserr":   ["../build/tools/deep/freqhorn", "--phaserr", "--debug", "10"],
+    "Spacer": ["z3"],
+    "Golem": ["golem", "--engine", "dar"],
     #"cvc5": ["cvc5", "--incremental"],
     #"MathSAT": ["mathsat"]
-    #"GSpacer": ["gspacer"]
+    "GSpacer": ["gspacer"]
 }
 
 OUTPUT_CSV = "benchmark_results_" + datetime.now().strftime("%Y%m%d_%H%M%S") + ".csv"
-TIMEOUT_SECONDS = 7200
+TIMEOUT_SECONDS = 900
 CERT_DIR = "./certificate2"
 # =================================================
 
@@ -79,8 +79,9 @@ def main():
     # --- Argument Parsing ---
     parser = argparse.ArgumentParser(description="Run benchmarks on SMT2 files in a specific folder.")
     parser.add_argument("--folder", help="Path to the folder containing .smt2 files")
-    parser.add_argument("--filter-csv", metavar="CSV",
-                        help="Only run benchmarks whose Filename appears in this CSV")
+    parser.add_argument("--exclude-csv", nargs="+", metavar="CSV", help="Do not run benchmarks whose Filename appears in these CSVs (takes priority over arguments passed to --include-csv)")
+    parser.add_argument("--include-csv", nargs="+", metavar="CSV",
+                        help="Only run benchmarks whose Filename appears in these CSVs")
     
     args = parser.parse_args()
     
@@ -99,18 +100,32 @@ def main():
         print(f"No .smt2 files found in '{smt_dir}'.")
         return
 
-    # Optionally filter to only filenames present in a CSV
-    if args.filter_csv:
-        if not os.path.isfile(args.filter_csv):
-            print(f"Error: Filter CSV '{args.filter_csv}' does not exist.")
-            sys.exit(1)
-        allowed = load_filter_set(args.filter_csv)
+    # Optionally filter to only filenames present in one or more CSVs
+    if args.include_csv:
+        allowed = set()
+        for csv_file in args.include_csv:
+            if not os.path.isfile(csv_file):
+                print(f"Error: Include CSV '{csv_file}' does not exist.")
+                sys.exit(1)
+            allowed.update(load_filter_set(csv_file))
         files = [f for f in files if os.path.basename(f) in allowed]
-        files.sort()
-        if not files:
-            print(f"No matching .smt2 files after filtering with '{args.filter_csv}'.")
-            return
-        print(f"Filtered to {len(files)} files using '{args.filter_csv}'.")
+        print(f"Filtered to {len(files)} files using {args.include_csv}.")
+
+    # Optionally exclude filenames present in one or more CSVs
+    if args.exclude_csv:
+        disallowed = set()
+        for csv_file in args.exclude_csv:
+            if not os.path.isfile(csv_file):
+                print(f"Error: Exclude CSV '{csv_file}' does not exist.")
+                sys.exit(1)
+            disallowed.update(load_filter_set(csv_file))
+        files = [f for f in files if os.path.basename(f) not in disallowed]
+        print(f"Excluded files using {args.exclude_csv}. Remaining: {len(files)}")
+
+    files.sort()
+    if not files:
+        print("No matching .smt2 files after filtering.")
+        return
 
     # --- Dynamic Header Generation ---
     first_file_params = extract_params(os.path.basename(files[0]))

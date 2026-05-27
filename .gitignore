@@ -33,3 +33,5 @@
 
 benchmark_generator/*.smt2
 benchmark_generator/b01/*.smt2
+chc.dot
+data.json

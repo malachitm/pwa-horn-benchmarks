@@ -1,6 +1,5 @@
 ; Modification of Figure 3.7 from Formal Verification of Control System Software (2019)
 ; In particular, it limits it in the sense that yd is fixed after the initial step
-
 (set-logic HORN)
 (declare-fun Inv (Real Real Real Real Real Real) Bool)
 
@@ -13,10 +12,10 @@
 		(and 
 			(= xc1 0.0)
             (= xc2 0.0)
-            (= xp1 0.0)
+			(<= (- 0.0 0.5) xp1) (<= xp1 0.5)
             (= xp2 0.0)
-            (<= -0.5 yd) (<= yd 0.5)
-			(= i 0)
+            (<= (- 0.0 0.5) yd) (<= yd 0.5)
+			(= i 0.0)
 		)
 		(Inv xc1 xc2 xp1 xp2 yd i))
 ))
@@ -47,19 +46,12 @@
 (assert (forall 
 	((xc1 Real) (xc2 Real) (xp1 Real)
 	 (xp2 Real) (yd Real) (i Real)
-     (xc10 Real) (xc20 Real) (xp10 Real)
-	 (xp2 Real) (i0 Real)
 	)
 
 	(=> 
 		(and
 			(Inv xc1 xc2 xp1 xp2 yd i)
-			;(not (<= (* xp1 xp1) 1.0))
-            (not (=> 
-				(>= i 150) 
-				(and
-					(<= (- 0 0.01) (- yd xp1)) (<= (- yd xp1) 0.01)
-				)))
+			(not (and (<= (- 1.0) xp1) (<= xp1 1.0)))
 		)
 		false)
 ))

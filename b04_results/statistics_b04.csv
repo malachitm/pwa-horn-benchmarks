@@ -1,0 +1,9 @@
+Category,Total_Benchmarks,Tool,Solved,Percentage_Solved,Avg_Time_(s),Median_Time_(s)
+interval,240,Phaserr,240,100.00%,11.0515,9.6863
+interval,240,Spacer,48,20.00%,62.0908,50.6982
+interval,240,Golem,48,20.00%,3.2737,3.0876
+TOTAL SUMMARY,240,Phaserr,240,100.00%,11.0515,9.6863
+TOTAL SUMMARY,240,Spacer,48,20.00%,62.0908,50.6982
+TOTAL SUMMARY,240,Golem,48,20.00%,3.2737,3.0876
+UNIQUE (Golem vs Spacer),240,Golem (unique),0,0.00%,,
+UNIQUE (Golem vs Spacer),240,Spacer (unique),0,0.00%,,

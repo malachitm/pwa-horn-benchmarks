@@ -12,11 +12,11 @@ from datetime import datetime
 # Certificate path is injected per-run, so do NOT include it here.
 TOOLS = {
     "Phaserr":   ["../build/tools/deep/freqhorn", "--phaserr"],
-    "Spacer": ["z3"],
-    "Golem": ["golem", "--engine", "dar"],
+    #"Spacer": ["z3"]
+    #"Golem": ["golem", "--engine", "dar"],
     #"cvc5": ["cvc5", "--incremental"],
     #"MathSAT": ["mathsat"]
-    "GSpacer": ["gspacer"]
+    #"GSpacer": ["gspacer"]
 }
 
 OUTPUT_CSV = "benchmark_results_" + datetime.now().strftime("%Y%m%d_%H%M%S") + ".csv"

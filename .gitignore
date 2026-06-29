@@ -30,7 +30,8 @@
 *.exe
 *.out
 *.app
-
+/rand_bench/*
+benchmark_generator/b04_nogetmodel/*
 benchmark_generator/*.smt2
 benchmark_generator/b01/*.smt2
 chc.dot
